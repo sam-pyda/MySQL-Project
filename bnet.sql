@@ -2,14 +2,6 @@
 
 -- Purpose: To allow the registrar of BNET learning to edit, update and list personal and academic details of students.
 
--- created by Group 3; 
--- Nathaniel Emuowho Aki
--- Esther Oyenekan
--- Oladipo Eniola Samuel
--- Uwaila Ekhator
--- Uche Benjamin Nwosu
--- Stephen Samuel
-
 -- --------------------------------------------------------------------------------------------------------------------------
 DROP DATABASE IF EXISTS bnetlearningacademy;
 CREATE database IF NOT EXISTS bnetlearningacademy;
